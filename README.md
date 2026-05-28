@@ -6,11 +6,8 @@
   <a href="https://github.com/Mo-Ara">
     <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </a>
-  <a href="https://www.linkedin.com/in/mo-aramesh" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamad-aramesh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mo%20Aramesh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mo@aramesh.dev">
-    <img src="https://img.shields.io/badge/Email-mo%40aramesh.dev-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -134,7 +131,7 @@ BigQuery, MySQL, MongoDB, Firebase/Firestore, Supabase, Power BI, Tableau, Excel
 - PhD in Mechanical Engineering with data and machine learning focus, RMIT University.
 - Former Project Engineer and Research Assistant at RMIT, where I built ML forecasting models for distributed energy systems and analysed large-scale energy datasets for Solar Victoria and Victorian distribution businesses.
 - Former Lead Project Coordinator at Tehran Energy Hub, leading renewable energy, net-zero, analytics, and consultancy projects.
-- 10+ years programming experience, 7+ years in technology consulting and data engineering, 5 years in machine learning, and 2+ years specialising in generative AI and agentic product development.
+- 10+ years programming experience, 7+ years in technology consulting and data engineering, 5 years in machine learning, and 3+ years specialising in generative AI and agentic product development.
 
 ---
 
@@ -153,7 +150,7 @@ I'm interested in senior roles where AI architecture, hands-on engineering, busi
   <a href="https://www.linkedin.com/in/mo-aramesh" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
-  <a href="mailto:mo@aramesh.dev">
+  <a href="mailto:mohamad.aramesh@startupbootcamp.com.au">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
