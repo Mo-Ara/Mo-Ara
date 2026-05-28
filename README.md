@@ -45,6 +45,22 @@ Currently, I lead AI and automation across APAC teams, where I build AI systems 
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=googlecloud,aws,azure,docker,kubernetes,python,typescript,javascript,react,nextjs,nodejs,html,css,tailwind,mongodb,supabase,git,github,linux" alt="Tech stack icons" />
+</p>
+
+**AI & Agents:** Gemini, Vertex AI, Google ADK, Gemini Enterprise Agent Platform, LangChain, CrewAI, Pydantic AI, OpenClaw, MCP, RAG, embeddings, vector databases, tool calling, multimodal AI, prompt engineering, fine-tuning, model evaluation.
+
+**Cloud & MLOps:** GCP, Vertex AI, BigQuery ML, Cloud Functions, AWS, Azure AI Studio, Azure ML, Docker, Kubernetes, Terraform, CI/CD, serverless, logging, monitoring, LLMOps, MLOps.
+
+**Engineering & Data:** Python, JavaScript, TypeScript, R, SQL, REST APIs, React, Node.js, TensorFlow, PyTorch, BigQuery, MySQL, MongoDB, Firebase, Supabase, Power BI, Tableau.
+
+**Automation:** Make, n8n, Zapier, Apollo, Airtable, HubSpot integrations, workflow orchestration, enrichment pipelines.
+
+---
+
 ## 🧠 What I Build
 
 | Area | Examples |
@@ -81,22 +97,6 @@ A multi-agent system that plans report structure, conducts parallel deep researc
 Secure GenAI workflows for portfolio reviews across public web data, alumni/company LinkedIn profiles, email records, CRM data, and historical company files.
 
 **Impact:** reduced reporting from 3 months to 2 weeks and increased alumni compliance by 80%.
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,googlecloud,aws,azure,docker,kubernetes,terraform,git,github,linux,typescript,javascript,react,nextjs,nodejs,mongodb,mysql,supabase" alt="Tech stack icons" />
-</p>
-
-**AI & Agents:** Gemini, Vertex AI, Google ADK, Gemini Enterprise Agent Platform, LangChain, CrewAI, Pydantic AI, OpenClaw, MCP, RAG, embeddings, vector databases, tool calling, multimodal AI, prompt engineering, fine-tuning, model evaluation.
-
-**Cloud & MLOps:** GCP, Vertex AI, BigQuery ML, Cloud Functions, AWS, Azure AI Studio, Azure ML, Docker, Kubernetes, Terraform, CI/CD, serverless, logging, monitoring, LLMOps, MLOps.
-
-**Engineering & Data:** Python, JavaScript, TypeScript, R, SQL, REST APIs, React, Node.js, TensorFlow, PyTorch, BigQuery, MySQL, MongoDB, Firebase, Supabase, Power BI, Tableau.
-
-**Automation:** Make, n8n, Zapier, Apollo, Airtable, HubSpot integrations, workflow orchestration, enrichment pipelines.
 
 ---
 
