@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/Mo-Ara">
-    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=22C55E&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0B3D2E&style=flat" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/mohamad-aramesh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mo%20Aramesh-0B3D2E?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
