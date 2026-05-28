@@ -138,7 +138,7 @@ Senior roles where **AI architecture, hands-on engineering, business transformat
 `Head of AI & Automation` · `AI & Data Lead` · `AI Solution Architect` · `AI Solution Designer` · `Senior AI Engineer` · `AI Technical Consultant`
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mo-aramesh" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamad-aramesh/" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:mohamad.aramesh@startupbootcamp.com.au">
