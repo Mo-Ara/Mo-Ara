@@ -5,15 +5,15 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=0EA5E9&center=true&vCenter=true&width=850&height=48&lines=Architecting+Production-Grade+Agentic+AI;Turning+AI+Strategy+Into+Real+Business+Impact;Building+Secure+LLMOps%2C+Automation+%26+GenAI+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=39FF88&center=true&vCenter=true&width=850&height=48&lines=Architecting+Production-Grade+Agentic+AI;Turning+AI+Strategy+Into+Real+Business+Impact;Building+Secure+LLMOps%2C+Automation+%26+GenAI+Products" alt="Typing SVG" />
 </div>
 
 <p align="center">
   <a href="https://github.com/Mo-Ara">
-    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=22C55E&style=flat" alt="Profile views" />
   </a>
   <a href="https://www.linkedin.com/in/mohamad-aramesh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mo%20Aramesh-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mo%20Aramesh-0B3D2E?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -119,8 +119,8 @@ Secure GenAI workflows for portfolio reviews across public web data, alumni/comp
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Ara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Ara&theme=tokyonight&layout=compact&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Ara&show_icons=true&theme=merko&include_all_commits=true&count_private=true&bg_color=030712&title_color=39FF88&text_color=BBF7D0&icon_color=86EFAC&border_color=14532D" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Ara&theme=merko&layout=compact&langs_count=8&bg_color=030712&title_color=39FF88&text_color=BBF7D0&border_color=14532D" alt="Top languages" />
 </div>
 
 ---
@@ -143,9 +143,9 @@ Senior roles where **AI architecture, hands-on engineering, business transformat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamad-aramesh/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:mohamad.aramesh@startupbootcamp.com.au">
-    <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/Email%20Me-14532D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
