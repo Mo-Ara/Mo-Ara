@@ -14,6 +14,10 @@
   </a>
 </p>
 
+> 🎆 **1st Place Winner** – Google's Agentic AI Hackathon (May 2026)  
+> ☁️ **Google Cloud Certified GenAI Leader**  
+> 💼 **Head of AI & Automation, APAC**
+
 ## 👋 About Me
 
 I am a **Senior AI Solution Architect** with 5+ years of expertise in designing and deploying AI/ML systems at scale on **Google Cloud** and open-source frameworks. Specializing in generative AI, large language model (LLM) integration, and MLOps pipeline design, I architect end-to-end solutions that transform business challenges into scalable AI products.
@@ -24,6 +28,7 @@ I am a **Senior AI Solution Architect** with 5+ years of expertise in designing 
 - **MLOps**: Establishing CI/CD pipelines, model monitoring, and deployment frameworks
 - **AI Engineering**: Developing production-ready models with TensorFlow/PyTorch and optimizing LLM performance
 - **Solution Design**: Translating business requirements into technical AI solutions with ROI-focused architecture
+- **Data Governance & Security**: Implementing compliant, secure LLMOps pipelines for highly sensitive personal and financial data
 
 **Notable Achievements**:
 - Architected a production-grade LLM-based research assistant deployed for 10,000+ monthly users
@@ -68,20 +73,18 @@ I am a **Senior AI Solution Architect** with 5+ years of expertise in designing 
 
 ## 🌟 Key Achievements
 
-- ✅ **38 Private Repositories** – Building diverse projects across multiple domains
-- ✅ **AI/ML Focus** – Specialized in autonomous agents and LLM applications
-- ✅ **Full Stack Development** – Experienced in frontend and backend technologies
-- ✅ **Automation Expert** – Created numerous automation tools and bots
-- ✅ **Live Deployments** – Multiple projects deployed on Vercel and other platforms
+- 🚀 **Scaled fundraising assessment workflows**, cutting down timelines from weeks to hours and driving **$2.1M AUD** in successful fundraising.
+- 📉 **Directed migration of internal automation pipelines**, saving **$25,000/year** in subscription costs.
+- ✅ **AI/ML Leadership** – Specialized in enterprise generative AI and autonomous agent frameworks
+- ✅ **Production Deployments** – Multiple secure, monitored solutions on Google Cloud and Vercel
 
 ---
 
 ## 📈 Current Focus
 
-- 🔬 **Advanced AI Agents** – Building sophisticated autonomous research systems
-- 🌐 **Web Scraping & Data Extraction** – Creating efficient tools for data collection
-- 🚀 **Portfolio Projects** – Developing showcase-worthy applications
-- 📊 **Data Visualization** – Creating intuitive dashboards and reports
+- 🔬 **Enterprise AI Architecture** – Designing multi-agent sequential pipelines, guardrails, and hallucination mitigation frameworks
+- 🌐 **Scalable Data Ingestion & Processing** – Building robust pipelines for large unstructured datasets
+- 🛡️ **Secure LLMOps & Data Governance** – Ensuring compliance in production AI systems handling sensitive data
 
 ---
 
