@@ -1,4 +1,4 @@
-# 🚀 Mo Aramesh | AI Solution Architect & Generative AI Specialist
+# 🚀 Mo Aramesh | AI Solution Architect & GenAI Engineer
 
 <!-- Animated Header -->
 <div align="center">
@@ -7,23 +7,27 @@
 
 <p align="center">
   <a href="https://github.com/Mo-Ara">
-    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="width:100px;height:20px" />
   </a>
   <a href="https://www.linkedin.com/in/mo-aramesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="width:100px;height:20px" />
   </a>
 </p>
 
-> 🎆 **1st Place Winner** – Google's Agentic AI Hackathon (May 2026)  
+<div align="center">
+
+> 🏆 **1st Place Winner** – Google's Agentic AI Hackathon (May 2026)  
 > ☁️ **Google Cloud Certified GenAI Leader**  
 > 💼 **Head of AI & Automation, APAC**
 
+</div>
+
 ## 👋 About Me
 
-I am a **Senior AI Solution Architect** with 5+ years of expertise in designing and deploying AI/ML systems at scale on **Google Cloud** and open-source frameworks. Specializing in generative AI, large language model (LLM) integration, and MLOps pipeline design, I architect end-to-end solutions that transform business challenges into scalable AI products.
+I am a **Senior AI Solution Architect** with **7+ years** of expertise in designing and deploying AI/ML systems at scale on **Google Cloud** and open-source frameworks. Specializing in agentic AI, large language model (LLM) integration, and MLOps pipeline design, I architect end-to-end solutions that transform business challenges into scalable AI products.
 
 **Core Expertise**:
-- **Generative AI**: Building chatbots, content generation systems, and creative AI agents using LLMs (Llama, Claude, Gemini) and frameworks like LangChain
+- **Agentic AI**: Building chatbots, content generation systems, and creative AI agents using LLMs (Llama, Claude, Gemini) and frameworks like LangChain
 - **Cloud ML Architecture**: Designing production-grade ML systems on Google Cloud (Vertex AI, AI Platform, BigQuery ML)
 - **MLOps**: Establishing CI/CD pipelines, model monitoring, and deployment frameworks
 - **AI Engineering**: Developing production-ready models with TensorFlow/PyTorch and optimizing LLM performance
@@ -75,8 +79,10 @@ I am a **Senior AI Solution Architect** with 5+ years of expertise in designing 
 
 - 🚀 **Scaled fundraising assessment workflows**, cutting down timelines from weeks to hours and driving **$2.1M AUD** in successful fundraising.
 - 📉 **Directed migration of internal automation pipelines**, saving **$25,000/year** in subscription costs.
-- ✅ **AI/ML Leadership** – Specialized in enterprise generative AI and autonomous agent frameworks
-- ✅ **Production Deployments** – Multiple secure, monitored solutions on Google Cloud and Vercel
+- ✅ **AI/ML Leadership** – Specialized in autonomous agents and LLM applications
+- ✅ **Full Stack Development** – Experienced in frontend and backend technologies
+- ✅ **Automation Expert** – Created numerous automation tools and bots
+- ✅ **Live Deployments** – Multiple projects deployed on Vercel and other platforms
 
 ---
 
