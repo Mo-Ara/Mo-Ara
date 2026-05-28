@@ -1,0 +1,95 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Animated neural network banner</title>
+  <desc id="desc">A dark blue AI architecture banner with pulsing neural network nodes and moving signal paths.</desc>
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="45%" r="75%">
+      <stop offset="0%" stop-color="#123B63"/>
+      <stop offset="52%" stop-color="#071827"/>
+      <stop offset="100%" stop-color="#030712"/>
+    </radialGradient>
+    <linearGradient id="lineGrad" x1="120" y1="52" x2="1080" y2="278" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.15"/>
+      <stop offset="0.52" stop-color="#22D3EE" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#A78BFA" stop-opacity="0.22"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="314" y1="111" x2="887" y2="111" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0F2FE"/>
+      <stop offset="0.5" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <filter id="softGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .label { font: 700 38px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0; }
+      .sub { font: 500 18px Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0; }
+      .line { stroke: url(#lineGrad); stroke-width: 1.4; opacity: .72; }
+      .node { fill: #7DD3FC; filter: url(#softGlow); }
+      .node2 { fill: #C4B5FD; filter: url(#softGlow); }
+      .tiny { fill: #E0F2FE; opacity: .7; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bgGlow)"/>
+  <path d="M0 264 C175 210 271 286 440 236 C594 190 680 106 854 120 C1012 133 1090 226 1200 177" stroke="#0EA5E9" stroke-opacity="0.16" stroke-width="42"/>
+  <path d="M0 90 C174 145 295 45 455 86 C607 124 680 216 849 203 C1010 191 1071 84 1200 124" stroke="#8B5CF6" stroke-opacity="0.13" stroke-width="34"/>
+
+  <g opacity="0.22">
+    <circle cx="83" cy="61" r="1.6" fill="#E0F2FE"/>
+    <circle cx="177" cy="253" r="1.2" fill="#E0F2FE"/>
+    <circle cx="272" cy="88" r="1.4" fill="#E0F2FE"/>
+    <circle cx="382" cy="279" r="1.3" fill="#E0F2FE"/>
+    <circle cx="489" cy="47" r="1.5" fill="#E0F2FE"/>
+    <circle cx="623" cy="270" r="1.2" fill="#E0F2FE"/>
+    <circle cx="748" cy="63" r="1.4" fill="#E0F2FE"/>
+    <circle cx="873" cy="265" r="1.3" fill="#E0F2FE"/>
+    <circle cx="1006" cy="59" r="1.7" fill="#E0F2FE"/>
+    <circle cx="1118" cy="236" r="1.2" fill="#E0F2FE"/>
+  </g>
+
+  <g stroke-linecap="round">
+    <path id="p1" class="line" d="M100 160 L216 82 L350 126 L474 72 L612 142 L752 91 L910 150 L1078 84"/>
+    <path id="p2" class="line" d="M122 226 L280 178 L420 230 L560 166 L714 221 L876 184 L1058 238"/>
+    <path id="p3" class="line" d="M170 112 L314 166 L456 136 L602 205 L770 152 L948 210"/>
+  </g>
+
+  <g filter="url(#softGlow)">
+    <circle class="node" cx="100" cy="160" r="6"><animate attributeName="r" values="5;8;5" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle class="node2" cx="216" cy="82" r="5"><animate attributeName="r" values="4;7;4" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="350" cy="126" r="6"><animate attributeName="r" values="5;9;5" dur="2.6s" begin=".3s" repeatCount="indefinite"/></circle>
+    <circle class="node2" cx="474" cy="72" r="5"><animate attributeName="r" values="4;7;4" dur="3.4s" begin=".1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="612" cy="142" r="7"><animate attributeName="r" values="6;10;6" dur="2.9s" begin=".5s" repeatCount="indefinite"/></circle>
+    <circle class="node2" cx="752" cy="91" r="5"><animate attributeName="r" values="4;8;4" dur="3.2s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="910" cy="150" r="6"><animate attributeName="r" values="5;9;5" dur="2.7s" begin=".6s" repeatCount="indefinite"/></circle>
+    <circle class="node2" cx="1078" cy="84" r="5"><animate attributeName="r" values="4;7;4" dur="3.3s" begin=".4s" repeatCount="indefinite"/></circle>
+
+    <circle class="node2" cx="122" cy="226" r="5"><animate attributeName="opacity" values=".6;1;.6" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="280" cy="178" r="5"><animate attributeName="opacity" values=".55;1;.55" dur="2.5s" begin=".4s" repeatCount="indefinite"/></circle>
+    <circle class="node2" cx="420" cy="230" r="6"><animate attributeName="opacity" values=".55;1;.55" dur="2.8s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="560" cy="166" r="5"><animate attributeName="opacity" values=".55;1;.55" dur="3s" begin=".6s" repeatCount="indefinite"/></circle>
+    <circle class="node2" cx="714" cy="221" r="5"><animate attributeName="opacity" values=".55;1;.55" dur="2.7s" begin=".1s" repeatCount="indefinite"/></circle>
+    <circle class="node" cx="876" cy="184" r="6"><animate attributeName="opacity" values=".55;1;.55" dur="2.9s" begin=".5s" repeatCount="indefinite"/></circle>
+    <circle class="node2" cx="1058" cy="238" r="5"><animate attributeName="opacity" values=".55;1;.55" dur="3.1s" begin=".3s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <circle r="4" fill="#F0FDFA" filter="url(#softGlow)">
+    <animateMotion dur="5.2s" repeatCount="indefinite" rotate="auto"><mpath href="#p1"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.82;1" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3.5" fill="#C4B5FD" filter="url(#softGlow)">
+    <animateMotion dur="6.4s" begin=".8s" repeatCount="indefinite" rotate="auto"><mpath href="#p2"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.82;1" dur="6.4s" begin=".8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="3" fill="#67E8F9" filter="url(#softGlow)">
+    <animateMotion dur="5.8s" begin="1.2s" repeatCount="indefinite" rotate="auto"><mpath href="#p3"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.82;1" dur="5.8s" begin="1.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <rect x="294" y="101" width="612" height="118" rx="24" fill="#020617" fill-opacity="0.52" stroke="#38BDF8" stroke-opacity="0.18"/>
+  <text x="600" y="150" text-anchor="middle" class="label" fill="url(#textGrad)">Agentic AI Architecture</text>
+  <text x="600" y="185" text-anchor="middle" class="sub" fill="#BAE6FD">LLMOps • Automation • Secure GenAI Products</text>
+</svg>

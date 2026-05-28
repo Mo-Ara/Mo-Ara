@@ -1,6 +1,10 @@
 # 🚀 Mo Aramesh | AI Solution Architect & GenAI Engineer
 
 <div align="center">
+  <img src="./assets/neural-banner.svg" alt="Animated neural network banner for Agentic AI architecture" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=0EA5E9&center=true&vCenter=true&width=850&height=48&lines=Architecting+Production-Grade+Agentic+AI;Turning+AI+Strategy+Into+Real+Business+Impact;Building+Secure+LLMOps%2C+Automation+%26+GenAI+Products" alt="Typing SVG" />
 </div>
 
