@@ -42,28 +42,60 @@
 
   <g opacity="0.92">
     <g class="matrix" transform="translate(52 -270)">
-      <animateTransform attributeName="transform" type="translate" values="52 -270;52 340" dur="8.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="52 -270;52 340" dur="8.5s" repeatCount="indefinite" begin="-1.8s"/>
       <text y="0">AI</text><text y="24">01</text><text y="48">RAG</text><text y="72">10</text><text y="96">LLM</text><text y="120">01</text><text y="144" class="matrixHead">AGI</text>
     </g>
     <g class="matrix" transform="translate(135 -190)">
-      <animateTransform attributeName="transform" type="translate" values="135 -190;135 360" dur="7.2s" begin=".8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="135 -190;135 360" dur="7.2s" begin="-2.6s" repeatCount="indefinite"/>
       <text y="0">10</text><text y="24">API</text><text y="48">01</text><text y="72">GPU</text><text y="96" class="matrixHead">MCP</text><text y="120">11</text>
     </g>
     <g class="matrix" transform="translate(245 -330)">
-      <animateTransform attributeName="transform" type="translate" values="245 -330;245 335" dur="9.4s" begin="1.6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="245 -330;245 335" dur="9.4s" begin="-4.1s" repeatCount="indefinite"/>
       <text y="0">01</text><text y="24">SQL</text><text y="48">10</text><text y="72">ML</text><text y="96">AI</text><text y="120" class="matrixHead">OPS</text><text y="144">01</text>
     </g>
     <g class="matrix" transform="translate(978 -260)">
-      <animateTransform attributeName="transform" type="translate" values="978 -260;978 350" dur="8s" begin=".4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="978 -260;978 350" dur="8s" begin="-3.2s" repeatCount="indefinite"/>
       <text y="0">LLM</text><text y="24">01</text><text y="48">ADK</text><text y="72">10</text><text y="96" class="matrixHead">RAG</text><text y="120">AI</text>
     </g>
     <g class="matrix" transform="translate(1088 -215)">
-      <animateTransform attributeName="transform" type="translate" values="1088 -215;1088 370" dur="7.6s" begin="1.1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="1088 -215;1088 370" dur="7.6s" begin="-2.1s" repeatCount="indefinite"/>
       <text y="0">10</text><text y="24">GCP</text><text y="48">01</text><text y="72" class="matrixHead">BOT</text><text y="96">11</text><text y="120">API</text>
     </g>
     <g class="matrix" transform="translate(1140 -310)">
-      <animateTransform attributeName="transform" type="translate" values="1140 -310;1140 330" dur="9s" begin="2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="1140 -310;1140 330" dur="9s" begin="-5.4s" repeatCount="indefinite"/>
       <text y="0">AI</text><text y="24">10</text><text y="48">ETL</text><text y="72">01</text><text y="96" class="matrixHead">GEN</text><text y="120">11</text>
+    </g>
+    <g class="matrix" transform="translate(20 -150)">
+      <animateTransform attributeName="transform" type="translate" values="20 -150;20 370" dur="6.9s" begin="-3.3s" repeatCount="indefinite"/>
+      <text y="0">01</text><text y="24">AI</text><text y="48" class="matrixHead">LLM</text><text y="72">10</text><text y="96">API</text>
+    </g>
+    <g class="matrix" transform="translate(92 -240)">
+      <animateTransform attributeName="transform" type="translate" values="92 -240;92 360" dur="8.1s" begin="-5.2s" repeatCount="indefinite"/>
+      <text y="0">ML</text><text y="24">10</text><text y="48">01</text><text y="72" class="matrixHead">RAG</text><text y="96">11</text><text y="120">AI</text>
+    </g>
+    <g class="matrix" transform="translate(188 -300)">
+      <animateTransform attributeName="transform" type="translate" values="188 -300;188 345" dur="9.1s" begin="-6.4s" repeatCount="indefinite"/>
+      <text y="0">GPU</text><text y="24">01</text><text y="48" class="matrixHead">ADK</text><text y="72">10</text><text y="96">BOT</text><text y="120">11</text>
+    </g>
+    <g class="matrix" transform="translate(320 -210)">
+      <animateTransform attributeName="transform" type="translate" values="320 -210;320 370" dur="7.8s" begin="-1.9s" repeatCount="indefinite"/>
+      <text y="0">10</text><text y="24">MCP</text><text y="48">01</text><text y="72" class="matrixHead">AI</text><text y="96">ETL</text>
+    </g>
+    <g class="matrix" transform="translate(410 -285)">
+      <animateTransform attributeName="transform" type="translate" values="410 -285;410 350" dur="8.8s" begin="-4.7s" repeatCount="indefinite"/>
+      <text y="0">API</text><text y="24">01</text><text y="48">SQL</text><text y="72" class="matrixHead">GEN</text><text y="96">10</text>
+    </g>
+    <g class="matrix" transform="translate(790 -230)">
+      <animateTransform attributeName="transform" type="translate" values="790 -230;790 360" dur="7.4s" begin="-3.8s" repeatCount="indefinite"/>
+      <text y="0">01</text><text y="24" class="matrixHead">OPS</text><text y="48">10</text><text y="72">RAG</text><text y="96">AI</text>
+    </g>
+    <g class="matrix" transform="translate(875 -315)">
+      <animateTransform attributeName="transform" type="translate" values="875 -315;875 345" dur="9.6s" begin="-7.2s" repeatCount="indefinite"/>
+      <text y="0">LLM</text><text y="24">10</text><text y="48">GCP</text><text y="72" class="matrixHead">01</text><text y="96">API</text><text y="120">ML</text>
+    </g>
+    <g class="matrix" transform="translate(1030 -180)">
+      <animateTransform attributeName="transform" type="translate" values="1030 -180;1030 370" dur="7.1s" begin="-4.4s" repeatCount="indefinite"/>
+      <text y="0">BOT</text><text y="24">01</text><text y="48" class="matrixHead">AI</text><text y="72">10</text><text y="96">GPU</text>
     </g>
   </g>
 
