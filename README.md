@@ -4,8 +4,8 @@
   <a href="https://github.com/Mo-Ara">
     <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0e75b6&style=flat" alt="Mo-Ara" />
   </a>
-  <a href="https://twitter.com/MoAramesh" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/MoAramesh?logo=twitter&style=for-the-badge" alt="Twitter" />
+  <a href="https://www.linkedin.com/in/mo-aramesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://linkedin.com/in/mo-aramesh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -14,16 +14,37 @@
 
 ---
 
-## 👋 Hello, I'm Mo!
+# 🚀 Mo Aramesh | AI Solution Architect & Generative AI Specialist
 
-I'm a passionate software developer with a strong focus on AI/ML, automation, and building innovative solutions. I love turning complex problems into simple, beautiful, and intuitive solutions.
+<!-- Animated Header -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Building+the+Future+with+AI+and+Code" alt="Typing SVG" />
+</div>
 
-### 💡 What I Do
+<p align="center">
+  <a href="https://github.com/Mo-Ara">
+    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://www.linkedin.com/in/mo-aramesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="width:100px;height:20px" />
+  </a>
+</p>
 
-- 🤖 **AI/ML Engineer**: Working on autonomous agents, LLM integrations, and intelligent automation
-- 🌐 **Full Stack Developer**: Building web applications and APIs with modern tech stacks
-- 📊 **Data Science**: Extracting insights from data and building predictive models
-- 🔧 **Automation**: Creating scripts and bots to streamline workflows
+## 👋 About Me
+
+I am a **Senior AI Solution Architect** with 5+ years of expertise in designing and deploying AI/ML systems at scale on **Google Cloud** and open-source frameworks. Specializing in generative AI, large language model (LLM) integration, and MLOps pipeline design, I architect end-to-end solutions that transform business challenges into scalable AI products.
+
+**Core Expertise**:
+- **Generative AI**: Building chatbots, content generation systems, and creative AI agents using LLMs (LLama, Claude, Gemini) and frameworks like LangChain
+- **Cloud ML Architecture**: Designing production-grade ML systems on Google Cloud (Vertex AI, AI Platform, BigQuery ML)
+- **MLOps**: Establishing CI/CD pipelines, model monitoring, and deployment frameworks
+- **AI Engineering**: Developing production-ready models with TensorFlow/PyTorch and optimizing LLM performance
+- **Solution Design**: Translating business requirements into technical AI solutions with ROI-focused architecture
+
+**Notable Achievements**:
+- Architected a production-grade LLM-based research assistant deployed for 10,000+ monthly users
+- Designed a Google Cloud-based AI pipeline that reduced inference costs by 40%
+- Developed a GenAI-powered automation system adopted by 3 Fortune 500 clients
 
 ### 🛠️ Tech Stack
 
@@ -75,24 +96,21 @@ Personal portfolio website showcasing projects and skills.
 
 - 🔬 **Advanced AI Agents** - Building sophisticated autonomous research systems
 - 🌐 **Web Scraping & Data Extraction** - Creating efficient tools for data collection
-- 🚀 **Portfolio Projects** - Developing showcase-worthy applications
-- 📊 **Data Visualization** - Creating intuitive dashboards and reports
+# 🚀 Mo Aramesh | AI Solution Architect & Google Cloud Engineer
 
----
-
-## 🤝 Let's Connect
-
+<!-- Animated Header -->
 <div align="center">
-  <a href="https://github.com/Mo-Ara" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&height=40&lines=Building+the+Future+with+AI+and+Code" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/Mo-Ara">
+    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://linkedin.com/in/mo-aramesh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mo-aramesh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="width:100px;height:20px" />
   </a>
-  <a href="https://twitter.com/MoAramesh" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:mo@aramesh.dev" target="_blank">
+</p>
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
