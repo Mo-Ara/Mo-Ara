@@ -104,11 +104,11 @@ Secure GenAI workflows for portfolio reviews across public web data, alumni/comp
 
 | Project | Why it matters |
 | --- | --- |
+| 🎯 [Portfolio](https://github.com/Mo-Ara/Portfolio) | A web app for organizing, managing, and improving LLM prompts with AI-powered refinements. |
+| 💼 [JobApplAI](https://github.com/Mo-Ara/JobApplAI) | Applied GenAI product engineering for job search automation and workflow UX. |
+| 🏥 [MediMind-AI](https://github.com/Mo-Ara/MediMind-AI) | Domain-specific AI assistant design with healthcare workflow and Whatsapp messaging integration. |
 | 🤖 [Automated-AI-Web-Researcher-Ollama](https://github.com/Mo-Ara/Automated-AI-Web-Researcher-Ollama) | Local LLM research automation, web search, report generation, and self-hosted AI workflows. |
 | 📚 [gpt-researcher](https://github.com/Mo-Ara/gpt-researcher) | Autonomous research agents, source-backed synthesis, and long-form report generation. |
-| 💼 [JobApplAI](https://github.com/Mo-Ara/JobApplAI) | Applied GenAI product engineering for job search automation and workflow UX. |
-| 🏥 [MediMind-AI](https://github.com/Mo-Ara/MediMind-AI) | Domain-specific AI assistant design with healthcare workflow and messaging integration. |
-| 🎯 [Portfolio](https://github.com/Mo-Ara/Portfolio) | Personal portfolio engineering and frontend presentation. |
 
 ---
 
