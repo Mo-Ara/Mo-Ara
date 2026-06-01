@@ -5,19 +5,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=900&color=39FF88&center=true&vCenter=true&width=850&height=48&lines=Architecting+Production-Grade+Agentic+AI;Turning+AI+Strategy+Into+Real+Business+Impact;Building+Secure+LLMOps%2C+Automation+%26+GenAI+Products" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="https://github.com/Mo-Ara">
-    <img src="https://komarev.com/ghpvc/?username=Mo-Ara&label=Profile%20views&color=0B3D2E&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohamad-aramesh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mo%20Aramesh-0B3D2E?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<div align="center">
 
 > 🏆 **1st Place Winner** - Google's Agentic AI Hackathon, May 2026  
 > 🤖 **Google Cloud Certified GenAI Leader**  
