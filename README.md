@@ -1,7 +1,7 @@
 # 🚀 Mo Aramesh | AI Solution Architect & GenAI Engineer
 
 <div align="center">
-  <img src="./assets/neural-banner.svg" alt="Animated neural network banner for Agentic AI architecture" width="100%" />
+  <img src="./assets/neural-banner.svg" alt="Agentic mesh architecture diagram showing orchestrator, coder, researcher, and executor agents" width="100%" />
 </div>
 
 <div align="center">
