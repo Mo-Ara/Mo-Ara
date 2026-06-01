@@ -103,15 +103,6 @@ Secure GenAI workflows for portfolio reviews across public web data, alumni/comp
 
 ---
 
-## 📊 GitHub Snapshot
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mo-Ara&show_icons=true&theme=merko&include_all_commits=true&count_private=true&bg_color=030712&title_color=39FF88&text_color=BBF7D0&icon_color=86EFAC&border_color=14532D" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mo-Ara&theme=merko&layout=compact&langs_count=8&bg_color=030712&title_color=39FF88&text_color=BBF7D0&border_color=14532D" alt="Top languages" />
-</div>
-
----
-
 ## 🎓 Background
 
 - 🎓 PhD in Mechanical Engineering with a data and machine learning focus, RMIT University.
