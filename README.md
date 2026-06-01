@@ -63,34 +63,6 @@ Currently, I lead AI and automation across APAC teams, where I build AI systems 
 
 ---
 
-## 🏗️ Selected Builds
-
-### 🤖 Autonomous AI Scouting Platform
-
-An end-to-end AI system for theme generation, deep web research, company data extraction, website checks, AI scoring, founder and decision-maker enrichment, personalised outreach, record management, and database integration.
-
-**Stack:** Google Cloud Functions, Vertex AI, BigQuery ML, Google Model Garden, data enrichment APIs, automation pipelines.
-
-### 📈 Investor Rating & Fundraising Intelligence
-
-AI-powered investor discovery and evaluation workflows for fundraising teams.
-
-**Impact:** doubled weekly lead generation capacity, reduced assessment time from weeks per 2,000 profiles to hours, and contributed to AUD 2.1M in fundraising outcomes.
-
-### 🧾 Enterprise Research & Report Generation Agents
-
-A multi-agent system that plans report structure, conducts parallel deep research, synthesises evidence, checks source-claim accuracy, detects bias, manages references, and produces publication-grade enterprise reports.
-
-**Focus:** hallucination mitigation, source verification, reference management, quality checks, executive-ready outputs.
-
-### 🔐 Portfolio Intelligence Platform
-
-Secure GenAI workflows for portfolio reviews across public web data, alumni/company LinkedIn profiles, email records, CRM data, and historical company files.
-
-**Impact:** reduced reporting from 3 months to 2 weeks and increased alumni compliance by 80%.
-
----
-
 ## 🚀 Featured Repositories
 
 | Project | Why it matters |
