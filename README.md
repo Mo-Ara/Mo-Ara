@@ -39,7 +39,7 @@ Currently, I lead AI and automation across APAC teams, where I build AI systems 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=googlecloud,aws,azure,docker,kubernetes,python,typescript,javascript,react,nextjs,nodejs,html,css,tailwind,mongodb,supabase,git,github,linux" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=googlecloud,aws,azure,docker,kubernetes,python,typescript,javascript,react,nextjs,nodejs" alt="Tech stack icons" />
 </p>
 
 **AI & Agents:** Gemini, Vertex AI, Google ADK, Gemini Enterprise Agent Platform, LangChain, CrewAI, Pydantic AI, OpenClaw, MCP, RAG, embeddings, vector databases, tool calling, multimodal AI, prompt engineering, fine-tuning, model evaluation.
