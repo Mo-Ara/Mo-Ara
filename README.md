@@ -65,14 +65,14 @@ Currently, I lead AI and automation across APAC teams, where I build AI systems 
 
 ## 🚀 Featured Repositories
 
-- **[oz-startup-finder](https://github.com/Mo-Ara/oz-startup-finder)** — agentic startup discovery pipeline using Google ADK with human-in-the-loop clarification, parallel enrichment, and structured output.
+- **[OZ Startup Finder](https://github.com/Mo-Ara/oz-startup-finder)** — agentic startup discovery pipeline using Google ADK with human-in-the-loop clarification, parallel enrichment, and structured output.
 - **[Prompt Gallery](https://github.com/Mo-Ara/Prompt-Gallery)** — a web app for organizing, managing, and improving LLM prompts with AI-powered refinements.
 
 ---
 
 ## Why these matter
 
-**oz-startup-finder** is a concrete example of production agentic workflow design on Google ADK: a multi-agent pipeline that goes beyond simple retrieval to include clarification, routing, parallel enrichment, evaluator-optimizer scoring, and schema-safe synthesis. It shows how I think about reliability, traceability, and human oversight in agentic systems.
+**OZ Startup Finder** is a concrete example of production agentic workflow design on Google ADK: a multi-agent pipeline that goes beyond simple retrieval to include clarification, routing, parallel enrichment, evaluator-optimizer scoring, and schema-safe synthesis. It shows how I think about reliability, traceability, and human oversight in agentic systems.
 
 **Prompt Gallery** addresses a fundamental production bottleneck in GenAI systems: prompt quality at scale. The repository captures reusable, version-controlled prompt patterns that reduce variability in model output — a practical necessity for reliable MLOps deployments.
 
