@@ -65,13 +65,16 @@ Currently, I lead AI and automation across APAC teams, where I build AI systems 
 
 ## 🚀 Featured Repositories
 
-| Project | Why it matters |
-| --- | --- |
-| 🎯 [Prompt Gallery](https://github.com/Mo-Ara/Prompt-Gallery) | A web app for organizing, managing, and improving LLM prompts with AI-powered refinements. |
-| 💼 [JobApplAI](https://github.com/Mo-Ara/JobApplAI) | Applied GenAI product engineering for job search automation and workflow UX. |
-| 🏥 [MediMind-AI](https://github.com/Mo-Ara/MediMind-AI) | Domain-specific AI assistant design with healthcare workflow and Whatsapp messaging integration. |
-| 🤖 [Automated-AI-Web-Researcher-Ollama](https://github.com/Mo-Ara/Automated-AI-Web-Researcher-Ollama) | Local LLM research automation, web search, report generation, and self-hosted AI workflows. |
-| 📚 [gpt-researcher](https://github.com/Mo-Ara/gpt-researcher) | Autonomous research agents, source-backed synthesis, and long-form report generation. |
+- **[oz-startup-finder](https://github.com/Mo-Ara/oz-startup-finder)** — structured startup intelligence using structured signals and generative AI filtering.
+- **[Prompt Gallery](https://github.com/Mo-Ara/Prompt-Gallery)** — a web app for organizing, managing, and improving LLM prompts with AI-powered refinements.
+
+---
+
+## Why these matter
+
+**oz-startup-finder** represents applied GenAI in an information-retrieval context: converting unstructured public signals into ranked, actionable startup intelligence. It reflects the same patterns I use in enterprise settings — filtering noisy data, applying structured reasoning, and delivering human-in-the-loop outputs that scale.
+
+**Prompt Gallery** addresses a fundamental production bottleneck in GenAI systems: prompt quality at scale. The repository captures reusable, version-controlled prompt patterns that reduce variability in model output — a practical necessity for reliable MLOps deployments.
 
 ---
 
