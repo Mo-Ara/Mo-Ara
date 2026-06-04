@@ -96,9 +96,9 @@ Senior roles where **AI architecture, hands-on engineering, business transformat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamad-aramesh/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0B3D2E?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
   <a href="mailto:mohamad.aramesh@startupbootcamp.com.au">
-    <img src="https://img.shields.io/badge/Email%20Me-14532D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+    <img src="https://img.shields.io/badge/Email%20Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
   </a>
 </p>
